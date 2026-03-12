@@ -30,7 +30,7 @@ Período: 2014 – 2017 | 9,994 registros
 │   ├── 02_cleaning.sql        # Validaciones y limpieza
 │   └── 03_kpis.sql            # Indicadores clave de negocio
 ├── src/
-│   └── analysis.ipynb         # Notebook principal: EDA, visualizaciones y proyección
+│   └── analysis.ipynb         #  principal: EDA, visualizaciones y proyección
 └── README.md
 ```
 
@@ -53,14 +53,14 @@ Regresión lineal con Scikit-learn para proyectar ingresos 6 meses hacia adelant
 
 | Gráfico | Descripción |
 |---|---|
-| `` <img width="1440" height="480" alt="01_outliers_boxplot" src="https://github.com/user-attachments/assets/b7eb02d1-a0dd-416d-9e35-883339be7d31" /> | Distribución de Sales y Profit con outliers |
-| `02_monthly_trend.png` | Ingresos y beneficio mensual |
-| `03_category_analysis.png` | Ingresos y margen por subcategoría |
-| `04_segment_region.png` | Comparativa por segmento y región |
-| `05_discount_vs_profit.png` | Relación entre descuento y beneficio |
-| `06_linear_forecast.png` | Proyección de ingresos con regresión lineal |
-| `07_moving_average.png` | Serie temporal con promedios móviles |
-| `08_mom_variation.png` | Variación mensual de ingresos (MoM %) |
+| <img width="1440" height="480" alt="01_outliers_boxplot" src="https://github.com/user-attachments/assets/b7eb02d1-a0dd-416d-9e35-883339be7d31" /> | Distribución de Sales y Profit con outliers |
+| <img width="1680" height="480" alt="02_monthly_trend" src="https://github.com/user-attachments/assets/c7909de4-4d6c-4008-8456-85769b214a5f" />  | Ingresos y beneficio mensual |
+| <img width="1680" height="600" alt="03_category_analysis" src="https://github.com/user-attachments/assets/18850fe3-443f-4991-aa98-1460c98c9098" /> | Ingresos y margen por subcategoría |
+| <img width="1440" height="480" alt="04_segment_region" src="https://github.com/user-attachments/assets/e9de62ed-f308-4ee1-b7a5-9e57058e8523" /> | Comparativa por segmento y región |
+|<img width="960" height="480" alt="05_discount_vs_profit" src="https://github.com/user-attachments/assets/63c82cf0-c1c6-4d63-b051-1a3abd68bc37" /> | Relación entre descuento y beneficio |
+| <img width="1680" height="480" alt="06_linear_forecast" src="https://github.com/user-attachments/assets/4a5b9812-8778-442c-ab92-ed729350de61" /> | Proyección de ingresos con regresión lineal |
+|<img width="1680" height="480" alt="07_moving_average" src="https://github.com/user-attachments/assets/6c3a0020-b9f6-412b-a6d0-93132234ada8" /> | Serie temporal con promedios móviles |
+| <img width="1680" height="360" alt="08_mom_variation" src="https://github.com/user-attachments/assets/e0f2f7e2-3b5b-4539-ab43-79d3073f718d" /> | Variación mensual de ingresos (MoM %) |
 
 ---
 
