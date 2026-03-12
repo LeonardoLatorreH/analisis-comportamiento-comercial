@@ -53,7 +53,7 @@ Regresión lineal con Scikit-learn para proyectar ingresos 6 meses hacia adelant
 
 | Gráfico | Descripción |
 |---|---|
-| `01_outliers_boxplot.png` | Distribución de Sales y Profit con outliers |
+| `` <img width="1440" height="480" alt="01_outliers_boxplot" src="https://github.com/user-attachments/assets/b7eb02d1-a0dd-416d-9e35-883339be7d31" /> | Distribución de Sales y Profit con outliers |
 | `02_monthly_trend.png` | Ingresos y beneficio mensual |
 | `03_category_analysis.png` | Ingresos y margen por subcategoría |
 | `04_segment_region.png` | Comparativa por segmento y región |
